@@ -1,0 +1,19 @@
+.chanel{
+    list-style: none;
+    margin-left: 160px
+}
+
+.chanel li img{
+    width: 60px;
+    border-radius: 30px;
+}
+
+.chanel lu{
+    text-decoration: none;
+    display: flex;
+}
+
+.chanel h3{
+    margin: 5px;
+    padding: 15px;
+}
